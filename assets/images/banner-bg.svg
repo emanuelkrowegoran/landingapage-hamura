@@ -1,0 +1,13 @@
+<svg id="banner-bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440.06" height="843.292" viewBox="0 0 1440.06 843.292">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.005" y1="-0.046" x2="0.005" y2="1.015" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#54a5f6"/>
+      <stop offset="1" stop-color="#1088ee"/>
+    </linearGradient>
+  </defs>
+  <path id="Rectangle" d="M0,0H1440V695.926l-160.118,56.645s-206.267,99.8-419.564,90.051c-94.408,1.8-188.793-22.824-188.793-22.824L-.059,642.822Z" transform="translate(0.06)" fill="#002fa6"/>
+  <g id="Group_2" data-name="Group 2" transform="translate(1011 299.953)">
+    <circle id="Oval" cx="23" cy="23" r="23" transform="translate(0 0.047)" opacity="0.535" fill="url(#linear-gradient)"/>
+    <circle id="Oval_Copy_5" data-name="Oval Copy 5" cx="94" cy="94" r="94" transform="translate(23 60.047)" opacity="0.196" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
