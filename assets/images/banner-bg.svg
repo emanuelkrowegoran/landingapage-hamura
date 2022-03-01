@@ -1,13 +1,21 @@
-<svg id="banner-bg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440.06" height="786.014" viewBox="0 0 1440.06 786.014">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1420" height="803" viewBox="0 0 1420 803">
   <defs>
-    <linearGradient id="linear-gradient" x1="0.005" y1="-0.046" x2="0.005" y2="1.015" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#54a5f6"/>
-      <stop offset="1" stop-color="#1088ee"/>
-    </linearGradient>
+    <clipPath id="clip-banner-bg">
+      <rect width="1420" height="803"/>
+    </clipPath>
   </defs>
-  <path id="Rectangle" d="M0,0H1440V648.656l-160.118,52.8s-206.267,93.024-419.564,83.934c-94.408,1.681-188.793-21.274-188.793-21.274L-.059,599.159Z" transform="translate(0.06)" fill="#002fa6"/>
-  <g id="Group_2" data-name="Group 2" transform="translate(1011 299.953)">
-    <circle id="Oval" cx="23" cy="23" r="23" transform="translate(0 0.047)" opacity="0.535" fill="url(#linear-gradient)"/>
-    <circle id="Oval_Copy_5" data-name="Oval Copy 5" cx="94" cy="94" r="94" transform="translate(23 60.047)" opacity="0.196" fill="url(#linear-gradient)"/>
+  <g id="banner-bg" clip-path="url(#clip-banner-bg)">
+    <rect width="1420" height="803" fill="#fff"/>
+    <g id="Rectangle_28" data-name="Rectangle 28" stroke="#707070" stroke-width="1">
+      <rect width="1426" height="745" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1425" height="744" fill="none"/>
+    </g>
+    <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="136" cy="142" rx="136" ry="142" transform="translate(-42 665)" fill="#fff"/>
+    <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="134.5" cy="142" rx="134.5" ry="142" transform="translate(173 638)" fill="#fff"/>
+    <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="136" cy="142" rx="136" ry="142" transform="translate(392 665)" fill="#fff"/>
+    <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="135.5" cy="142" rx="135.5" ry="142" transform="translate(593 573)" fill="#fff"/>
+    <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="136" cy="142" rx="136" ry="142" transform="translate(776 612)" fill="#fff"/>
+    <ellipse id="Ellipse_29" data-name="Ellipse 29" cx="135" cy="142" rx="135" ry="142" transform="translate(967 665)" fill="#fff"/>
+    <ellipse id="Ellipse_30" data-name="Ellipse 30" cx="136" cy="142" rx="136" ry="142" transform="translate(1170 612)" fill="#fff"/>
   </g>
 </svg>

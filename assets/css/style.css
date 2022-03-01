@@ -18273,8 +18273,12 @@ a.text-light:focus {
     color: #FFCC00 !important;
 }
 
+.text-darksubblack {
+    color: #000000 !important;
+}
+
 .text-dark2 {
-    color: #002FA6 !important;
+    color: #000000 !important;
 }
 
 a.text-dark:hover,
@@ -18722,7 +18726,7 @@ h6,
 
 .font-weight-medium {
     font-weight: 500;
-    color: #FF8300;
+    color: #FFCC00;
 }
 
 .font-weight-sedang {
@@ -19122,7 +19126,7 @@ section {
 
 .our-services {
     padding-bottom: 100px;
-    background-color: #000000;
+    background-color: #fff;
 }
 
 .seo {
