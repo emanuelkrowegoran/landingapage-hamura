@@ -18783,6 +18783,7 @@ h6,
     margin-bottom: 0.25rem;
     color: #000000;
 }
+
 .footer-bottom p {
     margin-bottom: 0.25rem;
     color: #ffffff;
@@ -18847,7 +18848,7 @@ h6,
 .navbar {
     width: 100%;
     padding: 1.875rem 1rem;
-    background: #3c37f1;
+    background-color: #000000;
 }
 
 @media (max-width: 991px) {
@@ -18864,7 +18865,7 @@ h6,
 }
 
 .navbar .navbar-brand img {
-    width: 200px;
+    width: 150px;
 }
 
 @media (max-width: 991px) {
@@ -19093,7 +19094,6 @@ section {
     }
 }
 
-
 .services-box {
     padding: 10px 100px 40px 0;
 }
@@ -19139,7 +19139,7 @@ section {
 }
 
 .seo .right {
-    background-color: #FFCC00 ;
+    background-color: #FFCC00;
 }
 
 .seo .right h2 {
@@ -19159,7 +19159,7 @@ section {
     color: #FFCC00;
 }
 
-.seo  .left p {
+.seo .left p {
     font-size: 14px;
     color: #FFCC00;
     padding-top: 16px;
@@ -19232,25 +19232,22 @@ section {
     height: 100vh;
 }
 
-
-.our-process{
- background-color: #ffff;
+.our-process {
+    background-color: #ffff;
 }
-.our-process h5 h3 h6{
+
+.our-process h5 h3 h6 {
     color: #000000;
-   }
+}
 
-   .our-process h3{
+.our-process h3 {
     font-weight: 500;
-   }
+}
 
- 
-   
 .our-projects {
     background-color: #000000;
     padding-bottom: 40px;
 }
-
 
 .btn-sosmed {
     color: #000000;
@@ -19273,7 +19270,6 @@ section {
     color: #FFCC00;
     background-color: transparent;
 }
-
 
 .wecando {
     /* background: #002FA6 url("../images/wecando-bg.svg"); */
