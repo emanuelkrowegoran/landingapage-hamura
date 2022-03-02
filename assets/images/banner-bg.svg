@@ -6,10 +6,7 @@
   </defs>
   <g id="banner-bg" clip-path="url(#clip-banner-bg)">
     <rect width="1420" height="803" fill="#fff"/>
-    <g id="Rectangle_28" data-name="Rectangle 28" stroke="#707070" stroke-width="1">
-      <rect width="1426" height="745" stroke="none"/>
-      <rect x="0.5" y="0.5" width="1425" height="744" fill="none"/>
-    </g>
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="1468" height="745" transform="translate(-42)"/>
     <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="136" cy="142" rx="136" ry="142" transform="translate(-42 665)" fill="#fff"/>
     <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="134.5" cy="142" rx="134.5" ry="142" transform="translate(173 638)" fill="#fff"/>
     <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="136" cy="142" rx="136" ry="142" transform="translate(392 665)" fill="#fff"/>
